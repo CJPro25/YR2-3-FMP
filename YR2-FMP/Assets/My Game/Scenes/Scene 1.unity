@@ -3478,8 +3478,8 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4494524748953682385}
   m_LocalRotation: {x: -0, y: -0.053556025, z: -0, w: -0.99856484}
-  m_LocalPosition: {x: 0, y: 0, z: -7.646799}
-  m_LocalScale: {x: 0.3105581, y: 0.47913373, z: 0.97495246}
+  m_LocalPosition: {x: 0, y: 0, z: -7.5681}
+  m_LocalScale: {x: 0.11406489, y: 0.2498203, z: 0.97495246}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 6239908031222161278}
@@ -3488,7 +3488,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.333, y: 0.5}
   m_AnchorMax: {x: 1, y: 0.5}
-  m_AnchoredPosition: {x: -48.40321, y: 13.415744}
+  m_AnchoredPosition: {x: -48.629, y: 76}
   m_SizeDelta: {x: -32.01599, y: 60}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!120 &1267965612741107471
@@ -6225,7 +6225,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 
+  m_text: The China Shop
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: fbb7c6a04be6d8341934b839f24b42e1, type: 2}
   m_sharedMaterial: {fileID: 4687939059374929122, guid: fbb7c6a04be6d8341934b839f24b42e1, type: 2}
