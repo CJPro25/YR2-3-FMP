@@ -1,0 +1,58 @@
+fileFormatVersion: 2
+guid: 87657279b10224f4a897d9d60fd573c0
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 715df9372183c47e389bb6e19fbc3b52, type: 3}
+  editorImportSettings:
+    generateSecondaryUVSet: 0
+  importSettings:
+    nodeNameMethod: 1
+    animationMethod: 2
+    generateMipMaps: 1
+    texturesReadable: 0
+    defaultMinFilterMode: 9729
+    defaultMagFilterMode: 9729
+    anisotropicFilterLevel: 1
+  instantiationSettings:
+    mask: -1
+    layer: 0
+    skinUpdateWhenOffscreen: 1
+    lightIntensityFactor: 1
+    sceneObjectCreation: 2
+  assetDependencies:
+  - type: 0
+    originalUri: Assets\My Game\Assets\california_bungalow_exteriorGLTF\scene.bin
+    assetPath: Assets\My Game\Assets\california_bungalow_exteriorGLTF\scene.bin
+  - type: 1
+    originalUri: Assets\My Game\Assets\california_bungalow_exteriorGLTF\textures\Cladding_Siding_White_baseColor.jpeg
+    assetPath: Assets\My Game\Assets\california_bungalow_exteriorGLTF\textures\Cladding_Siding_White_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\My Game\Assets\california_bungalow_exteriorGLTF\textures\Cladding_Stucco_White_baseColor.jpeg
+    assetPath: Assets\My Game\Assets\california_bungalow_exteriorGLTF\textures\Cladding_Stucco_White_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\My Game\Assets\california_bungalow_exteriorGLTF\textures\Metal_Corrogated_Shiny_baseColor.jpeg
+    assetPath: Assets\My Game\Assets\california_bungalow_exteriorGLTF\textures\Metal_Corrogated_Shiny_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\My Game\Assets\california_bungalow_exteriorGLTF\textures\Sketchy_Lines_Wavy_Vertical_baseColor.jpeg
+    assetPath: Assets\My Game\Assets\california_bungalow_exteriorGLTF\textures\Sketchy_Lines_Wavy_Vertical_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\My Game\Assets\california_bungalow_exteriorGLTF\textures\Sketchy_Shingles_Rustic_baseColor.jpeg
+    assetPath: Assets\My Game\Assets\california_bungalow_exteriorGLTF\textures\Sketchy_Shingles_Rustic_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\My Game\Assets\california_bungalow_exteriorGLTF\textures\Sketchy_Shingles_Shakes_baseColor.jpeg
+    assetPath: Assets\My Game\Assets\california_bungalow_exteriorGLTF\textures\Sketchy_Shingles_Shakes_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\My Game\Assets\california_bungalow_exteriorGLTF\textures\Wood_cherry_baseColor.jpeg
+    assetPath: Assets\My Game\Assets\california_bungalow_exteriorGLTF\textures\Wood_cherry_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\My Game\Assets\california_bungalow_exteriorGLTF\textures\dougfir_baseColor.jpeg
+    assetPath: Assets\My Game\Assets\california_bungalow_exteriorGLTF\textures\dougfir_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\My Game\Assets\california_bungalow_exteriorGLTF\textures\plan_baseColor.jpeg
+    assetPath: Assets\My Game\Assets\california_bungalow_exteriorGLTF\textures\plan_baseColor.jpeg
+  reportItems: []

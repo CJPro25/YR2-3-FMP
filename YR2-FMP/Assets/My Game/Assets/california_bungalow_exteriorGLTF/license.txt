@@ -1,0 +1,11 @@
+Model Information:
+* title:	California bungalow, exterior
+* source:	https://sketchfab.com/3d-models/california-bungalow-exterior-9253163a82664090972e58f2a52425d2
+* author:	kelp.strewn (https://sketchfab.com/kelp.strewn)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "California bungalow, exterior" (https://sketchfab.com/3d-models/california-bungalow-exterior-9253163a82664090972e58f2a52425d2) by kelp.strewn (https://sketchfab.com/kelp.strewn) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
