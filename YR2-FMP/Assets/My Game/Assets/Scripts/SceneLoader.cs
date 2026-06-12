@@ -5,7 +5,7 @@ public class SceneLoader : MonoBehaviour
 {
     public void Menu()
     {
-        SceneManager.LoadScene("Menu");
+        SceneManager.LoadScene("Scene 1");
     }
 
     public void GrandmasHouse()
